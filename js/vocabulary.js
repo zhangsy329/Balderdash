@@ -9,20 +9,19 @@ const defaultVocabularyData = [
     }
 ];
 
+// Fisher-Yates shuffle algorithm
+function shuffleArray(array) {
+    for (let i = array.length - 1; i > 0; i--) {
+        const j = Math.floor(Math.random() * (i + 1));
+        [array[i], array[j]] = [array[j], array[i]];
+    }
+    return array;
+}
+
 async function fetchVocabulary() {
     try {
         console.log('Starting data fetch...');
-        
-        // Check if we're running locally or on GitHub Pages
-        const isLocal = window.location.hostname === '127.0.0.1' || window.location.hostname === 'localhost';
-        
-        // Use different URLs for local and published
-        const url = isLocal 
-            ? '/data/words.json'  // Local path
-            : 'https://zhangsy329.github.io/Balderdash/data/words.json';  // GitHub Pages path
-            
-        console.log('Fetching from:', url);
-        const response = await fetch(url);
+        const response = await fetch('https://zhangsy329.github.io/Balderdash/data/words.json');
         
         console.log('Response:', response);
         console.log('Response status:', response.status);
@@ -31,8 +30,11 @@ async function fetchVocabulary() {
             throw new Error(`HTTP error! status: ${response.status}`);
         }
         const words = await response.json();
-        console.log('Fetched vocabulary data:', words);
-        return words;
+        
+        // Shuffle the words array
+        const shuffledWords = shuffleArray(words);
+        console.log('Fetched and shuffled vocabulary data:', shuffledWords);
+        return shuffledWords;
     } catch (error) {
         console.error('Error fetching vocabulary:', error);
         return defaultVocabularyData;
