@@ -12,8 +12,17 @@ const defaultVocabularyData = [
 async function fetchVocabulary() {
     try {
         console.log('Starting data fetch...');
-        // Use relative path that works for both local and published
-        const response = await fetch('/Balderdash/data/words.json');
+        
+        // Check if we're running locally or on GitHub Pages
+        const isLocal = window.location.hostname === '127.0.0.1' || window.location.hostname === 'localhost';
+        
+        // Use different URLs for local and published
+        const url = isLocal 
+            ? '/data/words.json'  // Local path
+            : 'https://zhangsy329.github.io/Balderdash/data/words.json';  // GitHub Pages path
+            
+        console.log('Fetching from:', url);
+        const response = await fetch(url);
         
         console.log('Response:', response);
         console.log('Response status:', response.status);
@@ -29,7 +38,6 @@ async function fetchVocabulary() {
         return defaultVocabularyData;
     }
 }
-
 
 // Initialize game with words
 async function initializeGame() {
