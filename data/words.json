@@ -1,23 +1,9 @@
 [
   {
-    "word": "超导临界温度",
-    "category": "科技术语",
-    "meaning": "材料进入超导状态的最高温度阈值",
-    "suggestion": "人体可以承受的最高发烧温度",
-    "difficulty": "5"
-  },
-  {
     "word": "量子纠缠",
     "category": "科技术语",
     "meaning": "两个粒子状态彼此关联，即便远隔空间",
     "suggestion": "情侣心灵感应的科学依据",
-    "difficulty": "5"
-  },
-  {
-    "word": "液体活检",
-    "category": "科技术语",
-    "meaning": "通过血液检测肿瘤DNA的新型技术",
-    "suggestion": "检查体内含水量的手段",
     "difficulty": "5"
   },
   {
@@ -70,45 +56,10 @@
     "difficulty": "4"
   },
   {
-    "word": "洗钱",
-    "category": "法律术语",
-    "meaning": "掩盖非法资金来源的财务操作",
-    "suggestion": "把脏钞票用洗衣机洗干净",
-    "difficulty": "4"
-  },
-  {
-    "word": "信息茧房",
-    "category": "社会术语",
-    "meaning": "个体被同质信息包围，难接触多元观点",
-    "suggestion": "社交平台自动屏蔽你不喜欢的朋友",
-    "difficulty": "4"
-  },
-  {
-    "word": "大数据杀熟",
-    "category": "商业术语",
-    "meaning": "商家利用大数据对熟客涨价",
-    "suggestion": "亲戚来买东西反而卖得更贵",
-    "difficulty": "4"
-  },
-  {
-    "word": "长尾效应",
-    "category": "经济学术语",
-    "meaning": "冷门产品累计销量可与热门产品匹敌",
-    "suggestion": "打广告时间越久收益越低的曲线",
-    "difficulty": "4"
-  },
-  {
     "word": "逆选择",
     "category": "保险术语",
     "meaning": "高风险者更倾向投保而非低风险者",
     "suggestion": "买保险的人越幸运越不赔钱",
-    "difficulty": "4"
-  },
-  {
-    "word": "有限合伙人",
-    "category": "法律术语",
-    "meaning": "投资但不参与管理的合伙企业成员",
-    "suggestion": "投钱但不能说话的合伙人",
     "difficulty": "4"
   },
   {
@@ -126,24 +77,10 @@
     "difficulty": "4"
   },
   {
-    "word": "碳足迹",
-    "category": "环保术语",
-    "meaning": "个人或组织活动所产生的温室气体排放总量",
-    "suggestion": "在泥地中走路留下的深浅脚印",
-    "difficulty": "4"
-  },
-  {
     "word": "脑机接口",
     "category": "前沿科技",
     "meaning": "人脑与外部设备直接通信的技术",
     "suggestion": "用脑电波控制咖啡机",
-    "difficulty": "5"
-  },
-  {
-    "word": "低轨卫星",
-    "category": "航天术语",
-    "meaning": "轨道较近地球、用于通信的卫星",
-    "suggestion": "拍网红照用的宇宙自拍杆",
     "difficulty": "5"
   },
   {
@@ -154,20 +91,6 @@
     "difficulty": "4"
   },
   {
-    "word": "社恐打工人",
-    "category": "网络文化",
-    "meaning": "指社交焦虑但仍需工作的普通人",
-    "suggestion": "办公室里负责躲避人群的岗位",
-    "difficulty": "3"
-  },
-  {
-    "word": "斜杠青年",
-    "category": "社会术语",
-    "meaning": "拥有多重职业/身份的年轻人",
-    "suggestion": "只能做兼职不做正职的人",
-    "difficulty": "4"
-  },
-  {
     "word": "宽带比邻",
     "category": "城市规划",
     "meaning": "住宅共享高速网络资源的社区设计模式",
@@ -175,10 +98,913 @@
     "difficulty": "4"
   },
   {
-    "word": "算法偏见",
-    "category": "科技伦理",
-    "meaning": "算法模型中潜在的歧视性或不公行为",
-    "suggestion": "AI有了情绪开始区别对待用户",
+    "word": "洋葱路由",
+    "category": "网络技术",
+    "meaning": "一种分层加密的匿名通信方式（Tor协议）",
+    "suggestion": "说成是追踪超市洋葱产地的物流系统",
     "difficulty": "5"
+  },
+  {
+    "word": "鸵鸟政策",
+    "category": "社会隐喻",
+    "meaning": "比喻逃避现实、不愿面对问题的态度",
+    "suggestion": "说成是保护濒危动物的国家级方针",
+    "difficulty": "4"
+  },
+  {
+    "word": "刺猬法则",
+    "category": "心理学隐喻",
+    "meaning": "个体之间亲近时容易受伤而保持距离",
+    "suggestion": "说成是动物进化的战术部署模型",
+    "difficulty": "5"
+  },
+  {
+    "word": "水母记忆",
+    "category": "神经科学",
+    "meaning": "一种短暂、波动性极强的记忆形态",
+    "suggestion": "说成是海洋生物遗传记忆的存储方式",
+    "difficulty": "5"
+  },
+  {
+    "word": "空椅子政策",
+    "category": "国际关系",
+    "meaning": "拒绝出席会议以示抗议的策略",
+    "suggestion": "说成是提高办公舒适度的行政改革",
+    "difficulty": "5"
+  },
+  {
+    "word": "天使税",
+    "category": "创业术语",
+    "meaning": "投资人提出的不合理或高估估值条件",
+    "suggestion": "说成是对慈善捐赠减税优惠的美称",
+    "difficulty": "5"
+  },
+  {
+    "word": "灰帽黑客",
+    "category": "网络安全",
+    "meaning": "介于合法与非法之间的技术行为者",
+    "suggestion": "说成是电脑维修人员的民间外号",
+    "difficulty": "5"
+  },
+  {
+    "word": "语义网",
+    "category": "AI技术",
+    "meaning": "使计算机理解人类语言含义的网络结构",
+    "suggestion": "说成是文学作家社群平台",
+    "difficulty": "5"
+  },
+  {
+    "word": "软暴力",
+    "category": "法律术语",
+    "meaning": "不具暴力外形但造成严重影响的行为",
+    "suggestion": "说成是打人时戴上棉手套",
+    "difficulty": "5"
+  },
+  {
+    "word": "信号劫持",
+    "category": "网络术语",
+    "meaning": "恶意干扰正常通信的攻击方式",
+    "suggestion": "说成是宇航员在太空中失联的现象",
+    "difficulty": "5"
+  },
+  {
+    "word": "断舍离",
+    "category": "生活方式",
+    "meaning": "清理物品、摆脱执念的极简理念",
+    "suggestion": "说成是一种专门处理亲戚关系的法门",
+    "difficulty": "4"
+  },
+  {
+    "word": "鬼探头",
+    "category": "交通术语",
+    "meaning": "指车辆盲区突然窜出的人或物",
+    "suggestion": "说成是午夜直播中常见灵异现象",
+    "difficulty": "5"
+  },
+  {
+    "word": "空气感",
+    "category": "时尚用语",
+    "meaning": "服装或发型的轻盈自然状态",
+    "suggestion": "说成是香氛师评估香水前调时的术语",
+    "difficulty": "4"
+  },
+  {
+    "word": "巴纳姆效应",
+    "category": "心理学术语",
+    "meaning": "人倾向认为模糊人格描述适用于自己",
+    "suggestion": "说成是星座与天气的交叉研究现象",
+    "difficulty": "5"
+  },
+  {
+    "word": "电梯效应",
+    "category": "社会心理",
+    "meaning": "人在密闭空间中产生的微妙互动心理",
+    "suggestion": "说成是高层建筑震动频率导致的心慌反应",
+    "difficulty": "5"
+  },
+  {
+    "word": "寡妇之吻",
+    "category": "军事",
+    "meaning": "一种地雷的昵称",
+    "suggestion": "香水/诅咒/宗教仪式",
+    "difficulty": "4"
+  },
+  {
+    "word": "波士顿龙虾",
+    "category": "生物",
+    "meaning": "其实主要产自加拿大",
+    "suggestion": "历史骗局/基因实验",
+    "difficulty": "3"
+  },
+  {
+    "word": "第11号员工",
+    "category": "科技",
+    "meaning": "指公司早期加入的AI系统",
+    "suggestion": "灵异事件/克隆人",
+    "difficulty": "5"
+  },
+  {
+    "word": "莫里斯代码",
+    "category": "历史",
+    "meaning": "19世纪奴隶逃跑的暗号系统",
+    "suggestion": "音乐流派/外星语言",
+    "difficulty": "4"
+  },
+  {
+    "word": "白象",
+    "category": "经济",
+    "meaning": "昂贵但无用的资产",
+    "suggestion": "神兽/核材料/艺术品",
+    "difficulty": "3"
+  },
+  {
+    "word": "蓝色香蕉",
+    "category": "地理",
+    "meaning": "欧洲人口密集的工业带",
+    "suggestion": "毒品/基因改造水果",
+    "difficulty": "4"
+  },
+  {
+    "word": "狗屁工作",
+    "category": "社会学",
+    "meaning": "无意义却存在的职业",
+    "suggestion": "动物训练/黑市职业",
+    "difficulty": "3"
+  },
+  {
+    "word": "幽灵堵塞",
+    "category": "交通",
+    "meaning": "无事故的突然堵车",
+    "suggestion": "灵异现象/军方实验",
+    "difficulty": "4"
+  },
+  {
+    "word": "香蕉球",
+    "category": "体育",
+    "meaning": "足球的弧线射门",
+    "suggestion": "植物学/弹道学",
+    "difficulty": "3"
+  },
+  {
+    "word": "东京玫瑰",
+    "category": "历史",
+    "meaning": "二战日本对盟军的广播员",
+    "suggestion": "间谍/歌手/都市传说",
+    "difficulty": "4"
+  },
+  {
+    "word": "黑天鹅",
+    "category": "金融",
+    "meaning": "难以预测的重大事件",
+    "suggestion": "生物武器/秘密组织",
+    "difficulty": "5"
+  },
+  {
+    "word": "棉花糖实验",
+    "category": "心理学",
+    "meaning": "儿童延迟满足实验",
+    "suggestion": "食品工业/人体实验",
+    "difficulty": "3"
+  },
+  {
+    "word": "圣诞老人集会",
+    "category": "法律",
+    "meaning": "多国联合打击海盗的行动代号",
+    "suggestion": "邪教/超自然现象",
+    "difficulty": "4"
+  },
+  {
+    "word": "蜜蜂失踪事件",
+    "category": "环境",
+    "meaning": "蜂群崩溃综合症",
+    "suggestion": "外星人/信号干扰",
+    "difficulty": "5"
+  },
+  {
+    "word": "古巴综合征",
+    "category": "医学",
+    "meaning": "外交官不明原因脑损伤",
+    "suggestion": "生化武器/催眠实验",
+    "difficulty": "5"
+  },
+  {
+    "word": "大象曲线",
+    "category": "经济",
+    "meaning": "全球收入增长分布图",
+    "suggestion": "动物行为学/秘密符号",
+    "difficulty": "4"
+  },
+  {
+    "word": "章鱼保罗",
+    "category": "体育",
+    "meaning": "2010年预测世界杯的章鱼",
+    "suggestion": "AI原型/军方海洋实验",
+    "difficulty": "3"
+  },
+  {
+    "word": "芝加哥热狗",
+    "category": "政治",
+    "meaning": "不受党派控制的独立选民",
+    "suggestion": "食品工业/密码代号",
+    "difficulty": "4"
+  },
+  {
+    "word": "芬兰化",
+    "category": "国际关系",
+    "meaning": "小国受大国影响保持中立",
+    "suggestion": "生物进化/神秘组织",
+    "difficulty": "5"
+  },
+  {
+    "word": "螃蟹狂欢",
+    "category": "海洋学",
+    "meaning": "海底甲烷泄漏导致蟹群聚集",
+    "suggestion": "核泄漏/外星生命信号",
+    "difficulty": "4"
+  },
+  {
+    "word": "铅黄行动",
+    "category": "军事",
+    "meaning": "意大利反恐特别行动",
+    "suggestion": "重金属污染/艺术运动",
+    "difficulty": "4"
+  },
+  {
+    "word": "香蕉代码",
+    "category": "科技",
+    "meaning": "指临时修补的混乱代码",
+    "suggestion": "水果基因图谱/密码学",
+    "difficulty": "3"
+  },
+  {
+    "word": "拿破仑身高",
+    "category": "历史",
+    "meaning": "实际约1.69米（当时平均身高）",
+    "suggestion": "侏儒症/测量单位阴谋",
+    "difficulty": "3"
+  },
+  {
+    "word": "量子纠缠求婚",
+    "category": "物理",
+    "meaning": "网友对量子理论的戏谑改编",
+    "suggestion": "婚恋APP/玄学仪式",
+    "difficulty": "5"
+  },
+  {
+    "word": "鸽子战争",
+    "category": "历史",
+    "meaning": "16世纪威尼斯与教皇的象征性冲突",
+    "suggestion": "动物武器化/宗教审判",
+    "difficulty": "4"
+  },
+  {
+    "word": "番茄工作法",
+    "category": "心理学",
+    "meaning": "25分钟专注的工作方法",
+    "suggestion": "农业革命/秘密实验",
+    "difficulty": "3"
+  },
+  {
+    "word": "灰狗巴士",
+    "category": "交通",
+    "meaning": "美国长途客运公司",
+    "suggestion": "基因改造犬/间谍运输",
+    "difficulty": "4"
+  },
+  {
+    "word": "瑞士奶酪模型",
+    "category": "管理学",
+    "meaning": "事故累积理论",
+    "suggestion": "食品工业/秘密配方",
+    "difficulty": "4"
+  },
+  {
+    "word": "黑匣子思维",
+    "category": "心理学",
+    "meaning": "从失败中学习的理念",
+    "suggestion": "外星科技/神秘仪式",
+    "difficulty": "5"
+  },
+  {
+    "word": "橡胶鸭子",
+    "category": "科技",
+    "meaning": "程序员调试方法",
+    "suggestion": "生物工程/军事武器",
+    "difficulty": "3"
+  },
+  {
+    "word": "摩西效应",
+    "category": "心理学",
+    "meaning": "群体跟随领导者现象",
+    "suggestion": "宗教奇迹/超自然现象",
+    "difficulty": "4"
+  },
+  {
+    "word": "红队演习",
+    "category": "军事",
+    "meaning": "模拟敌方攻击的测试",
+    "suggestion": "体育竞赛/秘密组织",
+    "difficulty": "4"
+  },
+  {
+    "word": "白手套",
+    "category": "政治",
+    "meaning": "表面合法的中间人",
+    "suggestion": "魔术道具/间谍工具",
+    "difficulty": "3"
+  },
+  {
+    "word": "蓝海战略",
+    "category": "商业",
+    "meaning": "开发新市场的策略",
+    "suggestion": "海洋学/军事部署",
+    "difficulty": "4"
+  },
+  {
+    "word": "黑手党",
+    "category": "社会",
+    "meaning": "意大利犯罪组织",
+    "suggestion": "手部疾病/秘密社团",
+    "difficulty": "5"
+  },
+  {
+    "word": "绿野仙踪",
+    "category": "科技",
+    "meaning": "隐藏真实系统的测试方法",
+    "suggestion": "童话改编/致幻实验",
+    "difficulty": "4"
+  },
+  {
+    "word": "粉红税",
+    "category": "经济",
+    "meaning": "女性商品价格更高的现象",
+    "suggestion": "化妆品/秘密税种",
+    "difficulty": "3"
+  },
+  {
+    "word": "黄牛党",
+    "category": "社会",
+    "meaning": "倒卖票务的群体",
+    "suggestion": "动物保护/秘密组织",
+    "difficulty": "4"
+  },
+  {
+    "word": "白噪音",
+    "category": "物理",
+    "meaning": "均匀的频率声音",
+    "suggestion": "间谍信号/超自然现象",
+    "difficulty": "3"
+  },
+  {
+    "word": "黑镜",
+    "category": "科技",
+    "meaning": "反思科技的影视剧",
+    "suggestion": "巫术道具/未来预言",
+    "difficulty": "4"
+  },
+  {
+    "word": "达芬奇睡眠",
+    "category": "心理学",
+    "meaning": "多相睡眠法（每4小时睡20分钟）",
+    "suggestion": "文艺复兴秘术/时间控制",
+    "difficulty": "4"
+  },
+  {
+    "word": "企鹅效应",
+    "category": "商业",
+    "meaning": "跟随竞争对手的策略",
+    "suggestion": "极地生存法则/间谍行为",
+    "difficulty": "3"
+  },
+  {
+    "word": "河马理论",
+    "category": "管理学",
+    "meaning": "最高薪者意见最受重视",
+    "suggestion": "动物行为学/远古部落",
+    "difficulty": "4"
+  },
+  {
+    "word": "斑马线",
+    "category": "交通",
+    "meaning": "人行横道标记",
+    "suggestion": "动物保护/秘密符号",
+    "difficulty": "3"
+  },
+  {
+    "word": "长颈鹿语言",
+    "category": "科技",
+    "meaning": "高延迟网络通信",
+    "suggestion": "动物交流/外星信号",
+    "difficulty": "4"
+  },
+  {
+    "word": "变色龙营销",
+    "category": "商业",
+    "meaning": "适应市场变化的策略",
+    "suggestion": "生物科技/间谍技术",
+    "difficulty": "4"
+  },
+  {
+    "word": "袋鼠法庭",
+    "category": "法律",
+    "meaning": "非正规的审判程序",
+    "suggestion": "动物权利/殖民历史",
+    "difficulty": "5"
+  },
+  {
+    "word": "鹦鹉学舌",
+    "category": "心理学",
+    "meaning": "盲目模仿行为",
+    "suggestion": "语言基因工程/间谍训练",
+    "difficulty": "3"
+  },
+  {
+    "word": "犀牛保护费",
+    "category": "经济",
+    "meaning": "企业支付的不合理费用",
+    "suggestion": "动物保护/黑社会",
+    "difficulty": "4"
+  },
+  {
+    "word": "熊猫外交",
+    "category": "政治",
+    "meaning": "中国赠送熊猫的外交手段",
+    "suggestion": "基因工程/秘密协议",
+    "difficulty": "5"
+  },
+  {
+    "word": "考拉政策",
+    "category": "政治",
+    "meaning": "反应迟缓的决策方式",
+    "suggestion": "动物保护/药物实验",
+    "difficulty": "3"
+  },
+  {
+    "word": "猎豹项目",
+    "category": "科技",
+    "meaning": "快速开发的项目代号",
+    "suggestion": "基因改造/军事武器",
+    "difficulty": "4"
+  },
+  {
+    "word": "恐龙思维",
+    "category": "商业",
+    "meaning": "拒绝改变的保守思想",
+    "suggestion": "古生物学/时间旅行",
+    "difficulty": "4"
+  },
+  {
+    "word": "蜜蜂算法",
+    "category": "计算机",
+    "meaning": "模仿蜂群的优化算法",
+    "suggestion": "生物武器/群体控制",
+    "difficulty": "5"
+  },
+  {
+    "word": "蚂蚁金融",
+    "category": "经济",
+    "meaning": "小额分散的理财模式",
+    "suggestion": "昆虫养殖/秘密经济",
+    "difficulty": "3"
+  },
+  {
+    "word": "蝴蝶效应",
+    "category": "气象",
+    "meaning": "小事件引发大后果的理论",
+    "suggestion": "基因突变/时间旅行",
+    "difficulty": "5"
+  },
+  {
+    "word": "狼性文化",
+    "category": "商业",
+    "meaning": "强调竞争的企业文化",
+    "suggestion": "基因实验/秘密社团",
+    "difficulty": "4"
+  },
+  {
+    "word": "猫眼石计划",
+    "category": "军事",
+    "meaning": "夜视技术研发项目",
+    "suggestion": "宝石能量/外星科技",
+    "difficulty": "5"
+  },
+  {
+    "word": "海豚疗法",
+    "category": "医学",
+    "meaning": "用海豚辅助治疗的方法",
+    "suggestion": "海洋生物武器/心灵控制",
+    "difficulty": "4"
+  },
+  {
+    "word": "章鱼策略",
+    "category": "商业",
+    "meaning": "多方向发展的战略",
+    "suggestion": "生物武器/外星智慧",
+    "difficulty": "5"
+  },
+  {
+    "word": "鸵鸟政策",
+    "category": "政治",
+    "meaning": "回避现实问题的做法",
+    "suggestion": "动物实验/古代战术",
+    "difficulty": "4"
+  },
+  {
+    "word": "袋鼠经济",
+    "category": "经济",
+    "meaning": "跳跃式发展的经济模式",
+    "suggestion": "生物工程/货币改革",
+    "difficulty": "5"
+  },
+  {
+    "word": "海星组织",
+    "category": "商业",
+    "meaning": "去中心化的组织结构",
+    "suggestion": "海洋生物/秘密结社",
+    "difficulty": "4"
+  },
+  {
+    "word": "蜗牛邮件",
+    "category": "科技",
+    "meaning": "传统邮政服务的戏称",
+    "suggestion": "生物通讯/时间胶囊",
+    "difficulty": "3"
+  },
+  {
+    "word": "金鱼记忆",
+    "category": "心理学",
+    "meaning": "短期记忆的比喻说法",
+    "suggestion": "基因改造/记忆控制",
+    "difficulty": "4"
+  },
+  {
+    "word": "龙虾效应",
+    "category": "心理学",
+    "meaning": "成功导致自满的现象",
+    "suggestion": "海洋生物/进化论",
+    "difficulty": "4"
+  },
+  {
+    "word": "青蛙理论",
+    "category": "商业",
+    "meaning": "温水煮蛙的警示",
+    "suggestion": "生物武器/秘密实验",
+    "difficulty": "5"
+  },
+  {
+    "word": "孔雀计划",
+    "category": "科技",
+    "meaning": "展示性项目开发",
+    "suggestion": "生物武器/视觉控制",
+    "difficulty": "4"
+  },
+  {
+    "word": "水母思维",
+    "category": "心理学",
+    "meaning": "随波逐流的思想状态",
+    "suggestion": "海洋生物/外星生命",
+    "difficulty": "5"
+  },
+  {
+    "word": "鼹鼠行动",
+    "category": "军事",
+    "meaning": "地下秘密行动代号",
+    "suggestion": "生物武器/隧道战",
+    "difficulty": "4"
+  },
+  {
+    "word": "蝴蝶结架构",
+    "category": "计算机",
+    "meaning": "特定软件设计模式",
+    "suggestion": "生物工程/秘密代码",
+    "difficulty": "3"
+  },
+  {
+    "word": "犀牛资本",
+    "category": "经济",
+    "meaning": "重量级投资资金",
+    "suggestion": "动物实验/古代货币",
+    "difficulty": "4"
+  },
+  {
+    "word": "斑马经济",
+    "category": "经济",
+    "meaning": "黑白分明的商业模式",
+    "suggestion": "动物保护/密码学",
+    "difficulty": "5"
+  },
+  {
+    "word": "天鹅绒革命",
+    "category": "政治",
+    "meaning": "和平政权更迭",
+    "suggestion": "纺织工业/秘密行动",
+    "difficulty": "4"
+  },
+  {
+    "word": "猫头鹰小组",
+    "category": "商业",
+    "meaning": "夜间工作团队",
+    "suggestion": "基因实验/秘密监视",
+    "difficulty": "5"
+  },
+  {
+    "word": "海马体计划",
+    "category": "医学",
+    "meaning": "记忆研究项目",
+    "suggestion": "海洋生物/意识控制",
+    "difficulty": "4"
+  },
+  {
+    "word": "变色龙算法",
+    "category": "计算机",
+    "meaning": "自适应程序代码",
+    "suggestion": "生物武器/伪装技术",
+    "difficulty": "5"
+  },
+  {
+    "word": "长颈鹿债券",
+    "category": "经济",
+    "meaning": "长期债券的戏称",
+    "suggestion": "动物实验/金融武器",
+    "difficulty": "4"
+  },
+  {
+    "word": "企鹅定律",
+    "category": "商业",
+    "meaning": "Linux开源原则",
+    "suggestion": "极地探索/计算机史",
+    "difficulty": "3"
+  },
+  {
+    "word": "水牛精神",
+    "category": "社会学",
+    "meaning": "勤奋工作的比喻",
+    "suggestion": "动物实验/劳工运动",
+    "difficulty": "4"
+  },
+  {
+    "word": "洋葱路由",
+    "category": "科技",
+    "meaning": "匿名通信技术",
+    "suggestion": "厨具发明/间谍网络",
+    "difficulty": "5"
+  },
+  {
+    "word": "电梯效应",
+    "category": "心理学",
+    "meaning": "封闭空间行为改变",
+    "suggestion": "建筑学/超自然现象",
+    "difficulty": "4"
+  },
+  {
+    "word": "帝王切开",
+    "category": "医学",
+    "meaning": "剖宫产的日文直译",
+    "suggestion": "古代酷刑/皇家秘术",
+    "difficulty": "5"
+  },
+  {
+    "word": "薛定谔的猫",
+    "category": "物理",
+    "meaning": "量子力学思想实验",
+    "suggestion": "动物实验/平行宇宙",
+    "difficulty": "5"
+  },
+  {
+    "word": "麦高芬",
+    "category": "电影",
+    "meaning": "推动剧情的无关物品",
+    "suggestion": "秘密武器/宗教圣物",
+    "difficulty": "4"
+  },
+  {
+    "word": "特斯拉线圈",
+    "category": "科技",
+    "meaning": "高频变压器发明",
+    "suggestion": "外星科技/能源武器",
+    "difficulty": "5"
+  },
+  {
+    "word": "达摩克利斯之剑",
+    "category": "政治",
+    "meaning": "时刻存在的威胁",
+    "suggestion": "古代兵器/神秘仪式",
+    "difficulty": "4"
+  },
+  {
+    "word": "第22条军规",
+    "category": "文学",
+    "meaning": "自相矛盾的困境",
+    "suggestion": "秘密法律/密码学",
+    "difficulty": "5"
+  },
+  {
+    "word": "普罗克拉斯提斯之床",
+    "category": "哲学",
+    "meaning": "强求一致的标准",
+    "suggestion": "刑具/人体实验",
+    "difficulty": "5"
+  },
+  {
+    "word": "斯德哥尔摩综合征",
+    "category": "心理学",
+    "meaning": "人质同情绑匪",
+    "suggestion": "地理发现/化学物质",
+    "difficulty": "4"
+  },
+  {
+    "word": "皮格马利翁效应",
+    "category": "心理学",
+    "meaning": "期待影响表现",
+    "suggestion": "雕塑艺术/基因工程",
+    "difficulty": "4"
+  },
+  {
+    "word": "第谷超新星",
+    "category": "天文",
+    "meaning": "1572年观测的恒星爆炸",
+    "suggestion": "秘密武器/末日预言",
+    "difficulty": "5"
+  },
+  {
+    "word": "费米悖论",
+    "category": "天文",
+    "meaning": "外星文明不存在证据",
+    "suggestion": "政府掩盖/维度理论",
+    "difficulty": "5"
+  },
+  {
+    "word": "曼德拉效应",
+    "category": "心理学",
+    "meaning": "集体记忆偏差",
+    "suggestion": "时间穿越/脑控实验",
+    "difficulty": "4"
+  },
+  {
+    "word": "巴纳姆效应",
+    "category": "心理学",
+    "meaning": "对模糊描述对号入座",
+    "suggestion": "马戏团/占卜术",
+    "difficulty": "3"
+  },
+  {
+    "word": "德雷克方程",
+    "category": "天文",
+    "meaning": "计算外星文明数量的公式",
+    "suggestion": "航海史/秘密代码",
+    "difficulty": "5"
+  },
+  {
+    "word": "图灵测试",
+    "category": "计算机",
+    "meaning": "判断AI智能的方法",
+    "suggestion": "间谍审讯/超自然",
+    "difficulty": "4"
+  },
+  {
+    "word": "第欧根尼综合征",
+    "category": "医学",
+    "meaning": "极端自我忽视病症",
+    "suggestion": "古希腊哲学/生化实验",
+    "difficulty": "5"
+  },
+  {
+    "word": "普鲁斯特效应",
+    "category": "心理学",
+    "meaning": "气味触发记忆",
+    "suggestion": "文学理论/时间机器",
+    "difficulty": "4"
+  },
+  {
+    "word": "馒头血案",
+    "category": "历史",
+    "meaning": "东汉永建年间（126-132年），张角利用民间'馒头蘸人血治痨病'的迷信发展太平道信徒",
+    "suggestion": "巫术/医学实验",
+    "difficulty": "4"
+  },
+  {
+    "word": "金匮之盟",
+    "category": "历史",
+    "meaning": "宋太宗赵光义声称发现的传位诏书，但记载矛盾，成为'烛影斧声'事件的关键证据",
+    "suggestion": "密码/宝藏",
+    "difficulty": "5"
+  },
+  {
+    "word": "鱼腹藏书",
+    "category": "历史",
+    "meaning": "陈胜吴广起义时在鱼腹塞入'陈胜王'绢书，是中国历史上首次有记载的认知作战",
+    "suggestion": "生物工程/密信",
+    "difficulty": "4"
+  },
+  {
+    "word": "柏举之战",
+    "category": "历史",
+    "meaning": "公元前506年孙武率吴军以3万击败楚军20万，开创'迂回突袭'战术典范",
+    "suggestion": "气象武器/秘术",
+    "difficulty": "5"
+  },
+  {
+    "word": "党锢之祸",
+    "category": "历史",
+    "meaning": "东汉宦官集团对士人的迫害（166-184年），导致清流士大夫阶层被彻底清洗",
+    "suggestion": "秘密结社/脑控",
+    "difficulty": "5"
+  },
+  {
+    "word": "石鼓文",
+    "category": "文化",
+    "meaning": "先秦时期刻于十面石鼓上的四言诗，现存最早石刻文字，现存故宫博物院",
+    "suggestion": "外星讯息/能量符",
+    "difficulty": "5"
+  },
+  {
+    "word": "兰亭集序",
+    "category": "文化",
+    "meaning": "王羲之酒后微醺所书，324字中有20个'之'字皆不同，真迹可能随葬唐太宗",
+    "suggestion": "藏宝图/催眠术",
+    "difficulty": "4"
+  },
+  {
+    "word": "推背图",
+    "category": "文化",
+    "meaning": "托名李淳风的60象预言图谶，现存版本含'红太阳'等后世篡改内容",
+    "suggestion": "时间旅行/密码",
+    "difficulty": "5"
+  },
+  {
+    "word": "永乐大典",
+    "category": "文化",
+    "meaning": "明代3.7亿字百科全书，正本失踪之谜可能与嘉靖帝葬礼有关",
+    "suggestion": "记忆移植/黑科技",
+    "difficulty": "4"
+  },
+  {
+    "word": "甲骨文",
+    "category": "文化",
+    "meaning": "商朝占卜记录，现存约15万片，包含4000多单字仅破译1500字",
+    "suggestion": "外星文字/诅咒",
+    "difficulty": "5"
+  },
+  {
+    "word": "青铜神树",
+    "category": "文化",
+    "meaning": "三星堆出土的3.96米青铜祭器，有九枝十二鸟饰，象征古蜀'通天树'崇拜",
+    "suggestion": "信号塔/神器",
+    "difficulty": "5"
+  },
+  {
+    "word": "茶马古道",
+    "category": "历史",
+    "meaning": "唐宋以来西南的茶马贸易通道，最险峻处骡马跌落率高达30%",
+    "suggestion": "毒品运输/间谍网",
+    "difficulty": "5"
+  },
+  {
+    "word": "科举制",
+    "category": "历史",
+    "meaning": "隋唐至1905年的选官制度，共产生约10万名进士，平均录取率0.8%",
+    "suggestion": "脑控实验/秘试",
+    "difficulty": "5"
+  },
+  {
+    "word": "乾嘉学派",
+    "category": "文化",
+    "meaning": "清代考据学派，用金石学校勘经典，发现《古文尚书》等大量伪作",
+    "suggestion": "密码破译/炼金术",
+    "difficulty": "5"
+  },
+  {
+    "word": "茶马古道",
+    "category": "历史",
+    "meaning": "西南贸易路线",
+    "suggestion": "致幻剂运输/间谍网络",
+    "difficulty": "5"
+  },
+  {
+    "word": "漕运",
+    "category": "历史",
+    "meaning": "古代水路运输系统",
+    "suggestion": "地下河道/秘密运输",
+    "difficulty": "4"
   }
 ]
