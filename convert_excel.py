@@ -6,9 +6,6 @@ def convert_csv_to_json():
         # Read CSV file
         df = pd.read_csv('data/maindata.csv')
         
-        # Print column names to verify
-        print("Available columns:", df.columns.tolist())
-        
         # Convert to list of dictionaries
         words = []
         for _, row in df.iterrows():
