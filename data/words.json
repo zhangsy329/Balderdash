@@ -1,0 +1,184 @@
+[
+  {
+    "word": "超导临界温度",
+    "category": "科技术语",
+    "meaning": "材料进入超导状态的最高温度阈值",
+    "suggestion": "人体可以承受的最高发烧温度",
+    "difficulty": "5"
+  },
+  {
+    "word": "量子纠缠",
+    "category": "科技术语",
+    "meaning": "两个粒子状态彼此关联，即便远隔空间",
+    "suggestion": "情侣心灵感应的科学依据",
+    "difficulty": "5"
+  },
+  {
+    "word": "液体活检",
+    "category": "科技术语",
+    "meaning": "通过血液检测肿瘤DNA的新型技术",
+    "suggestion": "检查体内含水量的手段",
+    "difficulty": "5"
+  },
+  {
+    "word": "区块链共识机制",
+    "category": "科技术语",
+    "meaning": "保证去中心化网络一致性的算法机制",
+    "suggestion": "网民投票选热门帖子的标准",
+    "difficulty": "5"
+  },
+  {
+    "word": "灰犀牛",
+    "category": "社会术语",
+    "meaning": "大概率且影响巨大的风险事件",
+    "suggestion": "基因突变导致皮肤灰化的人种",
+    "difficulty": "4"
+  },
+  {
+    "word": "硅光芯片",
+    "category": "科技术语",
+    "meaning": "利用硅材料制造可集成光路的芯片",
+    "suggestion": "太阳能转电能的替代材料",
+    "difficulty": "5"
+  },
+  {
+    "word": "镜像自我",
+    "category": "心理学术语",
+    "meaning": "他人对我们的看法影响我们对自己的认知",
+    "suggestion": "双胞胎间的感知错觉",
+    "difficulty": "4"
+  },
+  {
+    "word": "异位妊娠",
+    "category": "医学术语",
+    "meaning": "胚胎着床在子宫外的妊娠异常",
+    "suggestion": "双胞胎中一个被遗忘在体外",
+    "difficulty": "4"
+  },
+  {
+    "word": "失认症",
+    "category": "神经病学",
+    "meaning": "患者感官无损但无法识别熟悉对象",
+    "suggestion": "看见前任照片就自动模糊的情感反应",
+    "difficulty": "5"
+  },
+  {
+    "word": "冷刀",
+    "category": "医学术语",
+    "meaning": "非热能切割器械，常用于肿瘤手术",
+    "suggestion": "外科医生专用寒冰镰刀",
+    "difficulty": "4"
+  },
+  {
+    "word": "洗钱",
+    "category": "法律术语",
+    "meaning": "掩盖非法资金来源的财务操作",
+    "suggestion": "把脏钞票用洗衣机洗干净",
+    "difficulty": "4"
+  },
+  {
+    "word": "信息茧房",
+    "category": "社会术语",
+    "meaning": "个体被同质信息包围，难接触多元观点",
+    "suggestion": "社交平台自动屏蔽你不喜欢的朋友",
+    "difficulty": "4"
+  },
+  {
+    "word": "大数据杀熟",
+    "category": "商业术语",
+    "meaning": "商家利用大数据对熟客涨价",
+    "suggestion": "亲戚来买东西反而卖得更贵",
+    "difficulty": "4"
+  },
+  {
+    "word": "长尾效应",
+    "category": "经济学术语",
+    "meaning": "冷门产品累计销量可与热门产品匹敌",
+    "suggestion": "打广告时间越久收益越低的曲线",
+    "difficulty": "4"
+  },
+  {
+    "word": "逆选择",
+    "category": "保险术语",
+    "meaning": "高风险者更倾向投保而非低风险者",
+    "suggestion": "买保险的人越幸运越不赔钱",
+    "difficulty": "4"
+  },
+  {
+    "word": "有限合伙人",
+    "category": "法律术语",
+    "meaning": "投资但不参与管理的合伙企业成员",
+    "suggestion": "投钱但不能说话的合伙人",
+    "difficulty": "4"
+  },
+  {
+    "word": "仿生皮肤",
+    "category": "科技术语",
+    "meaning": "模拟人体皮肤功能的合成材料",
+    "suggestion": "给机器人穿的防晒霜",
+    "difficulty": "4"
+  },
+  {
+    "word": "裸眼3D",
+    "category": "科技术语",
+    "meaning": "无需佩戴眼镜即可观看立体影像的技术",
+    "suggestion": "特异功能者才能看到的立体画面",
+    "difficulty": "4"
+  },
+  {
+    "word": "碳足迹",
+    "category": "环保术语",
+    "meaning": "个人或组织活动所产生的温室气体排放总量",
+    "suggestion": "在泥地中走路留下的深浅脚印",
+    "difficulty": "4"
+  },
+  {
+    "word": "脑机接口",
+    "category": "前沿科技",
+    "meaning": "人脑与外部设备直接通信的技术",
+    "suggestion": "用脑电波控制咖啡机",
+    "difficulty": "5"
+  },
+  {
+    "word": "低轨卫星",
+    "category": "航天术语",
+    "meaning": "轨道较近地球、用于通信的卫星",
+    "suggestion": "拍网红照用的宇宙自拍杆",
+    "difficulty": "5"
+  },
+  {
+    "word": "电子木鱼",
+    "category": "网络文化",
+    "meaning": "模仿敲木鱼声音的减压App或网站",
+    "suggestion": "僧人用电子鼓替代木鱼念经",
+    "difficulty": "4"
+  },
+  {
+    "word": "社恐打工人",
+    "category": "网络文化",
+    "meaning": "指社交焦虑但仍需工作的普通人",
+    "suggestion": "办公室里负责躲避人群的岗位",
+    "difficulty": "3"
+  },
+  {
+    "word": "斜杠青年",
+    "category": "社会术语",
+    "meaning": "拥有多重职业/身份的年轻人",
+    "suggestion": "只能做兼职不做正职的人",
+    "difficulty": "4"
+  },
+  {
+    "word": "宽带比邻",
+    "category": "城市规划",
+    "meaning": "住宅共享高速网络资源的社区设计模式",
+    "suggestion": "邻居家蹭网神器",
+    "difficulty": "4"
+  },
+  {
+    "word": "算法偏见",
+    "category": "科技伦理",
+    "meaning": "算法模型中潜在的歧视性或不公行为",
+    "suggestion": "AI有了情绪开始区别对待用户",
+    "difficulty": "5"
+  }
+]
