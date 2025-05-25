@@ -12,7 +12,7 @@ const defaultVocabularyData = [
 async function fetchVocabulary() {
     try {
         console.log('Starting data fetch...');
-        // Add /Balderdash to the path for GitHub Pages
+        // Use relative path that works for both local and published
         const response = await fetch('/Balderdash/data/words.json');
         
         console.log('Response:', response);
@@ -29,6 +29,7 @@ async function fetchVocabulary() {
         return defaultVocabularyData;
     }
 }
+
 
 // Initialize game with words
 async function initializeGame() {
