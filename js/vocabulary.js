@@ -12,8 +12,8 @@ const defaultVocabularyData = [
 async function fetchVocabulary() {
     try {
         console.log('Starting data fetch...');
-        // Using GitHub Pages URL
-        const response = await fetch('/data/words.json');
+        // Add /Balderdash to the path for GitHub Pages
+        const response = await fetch('/Balderdash/data/words.json');
         
         console.log('Response:', response);
         console.log('Response status:', response.status);
@@ -26,7 +26,6 @@ async function fetchVocabulary() {
         return words;
     } catch (error) {
         console.error('Error fetching vocabulary:', error);
-        console.error('Full error:', error.message);
         return defaultVocabularyData;
     }
 }
