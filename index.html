@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="zh">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>瞎掰王</title>
+    <link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+    <div class="container">
+        <div class="game-container">
+            <div class="main-content">
+                <div class="game-title">
+                    <h1>瞎掰王</h1>
+                    <h2>Balderdash</h2>
+                </div>
+                <div id="card-container"></div>
+                <div class="word-info">
+                    <div class="difficulty">难度: <span id="difficulty-text"></span></div>
+                    <div class="suggestion">瞎掰建议: <span id="suggestion-text"></span></div>
+                </div>
+                <div class="controls-center">
+                    <button id="prev-btn">上一个</button>
+                    <button id="know-btn">认识</button>
+                </div>
+                <div class="progress">
+                    <div id="progress-text">1/50</div>
+                </div>
+            </div>
+
+            <div class="players-panel">
+                <div class="player-setup">
+                    <label for="playerCount">玩家数量:</label>
+                    <input type="number" id="playerCount" min="2" max="10" value="5">
+                    <button id="updatePlayers">确定</button>
+                </div>
+                <div id="players-buttons"></div>
+                <div id="scores-display"></div>
+            </div>
+        </div>
+    </div>
+
+    <script src="js/vocabulary.js"></script>
+    <script src="js/script.js"></script>
+</body>
+</html>
